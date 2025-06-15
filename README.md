@@ -1,6 +1,6 @@
 # PowerBI-Module_Assignment
 
-# 🏙️ NYC Airbnb Market Overview – Power BI Module Assignment
+# 🏙️ NYC Airbnb Market Overview 
 
 ## 📘 Project Summary
 
