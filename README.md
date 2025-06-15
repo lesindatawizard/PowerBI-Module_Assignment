@@ -2,8 +2,6 @@
 
 # 🏙️ NYC Airbnb Market Overview – Power BI Module Assignment
 
-![Dashboard Preview](Screenshot%202025-06-16%20032310.png)
-
 ## 📘 Project Summary
 
 This Power BI dashboard presents a comprehensive analysis of Airbnb listings in New York City. The project aims to derive actionable insights from listing data by incorporating interactive visuals, slicers, KPIs, and bookmarks. It serves as a strong demonstration of Power BI proficiency and is structured to align with professional reporting standards.
